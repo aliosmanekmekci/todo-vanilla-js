@@ -11,6 +11,6 @@ Welcome to my ToDo App! This is a simple application built with HTML, CSS, and p
 
 ## GitHub Pages
 
-You can view the live application here.
+You can view the live application [here](https://aliosmanekmekci.github.io/todo-vanilla-js/).
 
-https://aliosmanekmekci.github.io/todo-vanilla-js/
+
